@@ -1,13 +1,13 @@
-import time
+import time, json
 from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
 
 def shopee_search_by_shop(driver, shop_id):
     driver.get(f'https://shopee.vn/{shop_id}#product_list')
-    time.sleep(5)
+    time.sleep(3)
 
-def crawler_item_url_by_shop(driver, wait_time=2, max_pages=10):
+def crawler_item_url_by_shop(driver, wait_time=2, max_pages=25):
     all_urls = []
     page = 1
 
@@ -47,6 +47,9 @@ def crawler_item_url_by_shop(driver, wait_time=2, max_pages=10):
         except (NoSuchElementException, ElementClickInterceptedException) as e:
             print("⚠️ Không thể click next:", e)
             break
+    with open(r"C:\code\ShopeeCrawler\data\url\item_urls.json",'w', encoding="utf-8") as f:
+        json.dump(all_urls, f, ensure_ascii=False, indent=4)
+    print(rf"✅ Đã lưu {len(all_urls)} URL vào file C:\code\ShopeeCrawler\data\url\item_urls.json")
 
     return all_urls
 
@@ -134,8 +137,9 @@ def crawler_rating_info_by_shop(html: str) -> list:
                 data["date"] = full_text.strip()
                 data["variant"] = ""
 
-        stars = item.select(".shopee-product-rating__rating svg")
+        stars = item.select(".shopee-product-rating__rating .icon-rating-solid--active")
         data["stars"] = len(stars)
+
 
         content_blocks = item.select("div[style*='white-space: pre-wrap;'] div")
         content = []
@@ -189,7 +193,7 @@ def crawl_all_ratings(driver, wait_time=2, max_pages=20):
             # Scroll đến nút nếu cần
             print("🔽 Đang scroll đến nút next...")
             driver.execute_script("arguments[0].scrollIntoView({behavior: 'smooth'});", next_btn)
-            time.sleep(0.5)
+            time.sleep(2)
             driver.execute_script("arguments[0].click();", next_btn)
             page += 1
             if page > max_pages:

@@ -7,27 +7,35 @@ from utils import find_to_driver, parse_num_ratings
 if __name__ == "__main__":
     driver = find_to_driver(
         r'C:\Program Files\Google\Chrome\Application\chrome.exe',
-        r'D:\User Data',
-        r'Profile 5'
+        r'C:\code\Default',
+        r'Default'
     )
 
     Path("results").mkdir(exist_ok=True)
 
-    shopee_search_by_shop(driver, 'anyoung.wear')  
-    urls = crawler_item_url_by_shop(driver)
+    # shopee_search_by_shop(driver, 'yody.official')  
+    # urls = crawler_item_url_by_shop(driver)
+    with open(r'C:\code\ShopeeCrawler\data\url\item_urls.json', "r", encoding="utf-8") as f:
+        urls = json.load(f)
+
+    print(f"🔢 Đã đọc {len(urls)} URL từ file JSON.")
     for url in urls:
         driver = find_to_driver(
             r'C:\Program Files\Google\Chrome\Application\chrome.exe',
-            r'D:\User Data',
-            r'Profile 5'
+            r'C:\code\Default',
+            r'Default'
         )
-        driver.execute_script(f"window.open('{url}');")
-        driver.switch_to.window(driver.window_handles[-1])
-        time.sleep(6)
+        # driver.execute_script(f"window.open('{url}');")
+        # driver.switch_to.window(driver.window_handles[-1])
+        driver.get(url)
+        time.sleep(5)
         html = driver.page_source
 
         item_info = crawler_item_info_by_shop(html)
         rating_count = parse_num_ratings(item_info.get("num_ratings", "0"))
+        if rating_count == 0:
+            print("Bị block tại url:", url)
+            break
         max_pages = (rating_count // 6) + 1 if rating_count > 0 else 1
         print(f"🔢 Tổng đánh giá: {rating_count} => Dự kiến crawl {max_pages} trang")
         rating_item_info = crawl_all_ratings(driver, wait_time=2, max_pages=max_pages)
