@@ -53,3 +53,11 @@ def find_to_driver_incognito():
     chrome_options.add_argument("--dns-prefetch-disable")
     driver = webdriver.Chrome(options=chrome_options)
     return driver
+def parse_num_ratings(text):
+    text = text.lower().replace(".", "").replace(",", ".").replace(" ", "")
+    if "k" in text:
+        return int(float(text.replace("k", "")) * 1000)
+    try:
+        return int(text)
+    except:
+        return 0
