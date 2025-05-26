@@ -177,11 +177,36 @@ def crawl_all_ratings(driver, wait_time=2, max_pages=20):
     while True:
         print(f"🧭 Crawling page {page}...")
         time.sleep(wait_time)  # đợi nội dung load
+        
+        html = None
         html = driver.page_source
         ratings = crawler_rating_info_by_shop(html)
         if not ratings:
             print("⛔ Không còn đánh giá, dừng.")
-            break
+            print(f"⚠️ Lỗi lấy html ở trang {page}")
+            # Yêu cầu người dùng xác nhận đã fix lỗi ngoài trình duyệt
+            inp = input(f"Trang {page} bị lỗi. Xác thực đã xử lý xong? (gõ 'x' để tiếp tục): ")
+            if inp.lower() == 'x':
+                try:
+                    next_btn = driver.find_element(By.CSS_SELECTOR, ".shopee-icon-button--right")
+                    if "disabled" in next_btn.get_attribute("class"):
+                        print("✅ Đã đến trang cuối cùng.")
+                        break
+                    driver.execute_script("arguments[0].scrollIntoView({behavior: 'smooth'});", next_btn)
+                    time.sleep(2)
+                    driver.execute_script("arguments[0].click();", next_btn)
+                    page += 1
+                    if page > max_pages:
+                        print("🚧 Đã đến giới hạn số trang (max_pages).")
+                        break
+                    continue  # quay lại vòng while tiếp tục crawl trang mới
+                except Exception as e2:
+                    print(f"❌ Không thể click nút next: {e2}")
+                    break
+            else:
+                print("Dừng crawl do chưa xác thực.")
+                break
+
         all_ratings.extend(ratings)
 
         try:
@@ -204,3 +229,4 @@ def crawl_all_ratings(driver, wait_time=2, max_pages=20):
             break
 
     return all_ratings
+
