@@ -14,7 +14,7 @@ Một công cụ **Python + Selenium** giúp bạn crawl sản phẩm và đánh
 
 ## ⚙️ Yêu cầu hệ thống
 
-- Python 3.7+
+- Python 3.11+
 - Google Chrome (đã cài trên máy)
 - ChromeDriver phù hợp với phiên bản Chrome
 - Hệ điều hành: Windows
