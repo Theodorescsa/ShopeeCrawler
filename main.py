@@ -7,26 +7,24 @@ from utils import find_to_driver, parse_num_ratings
 if __name__ == "__main__":
     driver = find_to_driver(
         r'C:\Program Files\Google\Chrome\Application\chrome.exe',
-        r'C:\code\Default',
-        r'Default'
+        r'D:\User Data',
+        r'Profile 5'
     )
 
     Path("results").mkdir(exist_ok=True)
 
     # shopee_search_by_shop(driver, 'yody.official')  
     # urls = crawler_item_url_by_shop(driver)
-    with open(r'C:\code\ShopeeCrawler\data\url\item_urls.json', "r", encoding="utf-8") as f:
+    with open(r'D:\Python\crawler\data\url\item_urls_part1.json', "r", encoding="utf-8") as f:
         urls = json.load(f)
 
     print(f"🔢 Đã đọc {len(urls)} URL từ file JSON.")
     for url in urls:
-        driver = find_to_driver(
-            r'C:\Program Files\Google\Chrome\Application\chrome.exe',
-            r'C:\code\Default',
-            r'Default'
-        )
-        # driver.execute_script(f"window.open('{url}');")
-        # driver.switch_to.window(driver.window_handles[-1])
+        # driver = find_to_driver(
+        #     r'C:\Program Files\Google\Chrome\Application\chrome.exe',
+        #     r'D:\User Data',
+        #     r'Profile 5'
+        # )
         driver.get(url)
         time.sleep(5)
         html = driver.page_source
@@ -52,4 +50,3 @@ if __name__ == "__main__":
             json.dump(data, f, ensure_ascii=False, indent=2)
 
         print(f"✅ Saved: {filename}")
-        driver.close()
