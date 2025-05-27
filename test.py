@@ -2,14 +2,14 @@ import json
 import math
 
 # Đường dẫn đến file gốc
-input_file = "data/url/item_urls.json"
+input_file = "data/url/item_urls_update.json"
 
 # Đọc danh sách URL
 with open(input_file, "r", encoding="utf-8") as f:
     urls = json.load(f)
 
 # Số lượng file muốn chia
-num_parts = 5
+num_parts = 4
 total_urls = len(urls)
 chunk_size = math.ceil(total_urls / num_parts)
 
