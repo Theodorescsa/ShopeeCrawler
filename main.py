@@ -7,15 +7,16 @@ from utils import find_to_driver, parse_num_ratings
 if __name__ == "__main__":
     driver = find_to_driver(
         r'C:\Program Files\Google\Chrome\Application\chrome.exe',
-        r'D:\User Data',
-        r'Profile 5'
+        r'C:\code\Default',
+        r'Default'
     )
+
 
     Path("results").mkdir(exist_ok=True)
 
     # shopee_search_by_shop(driver, 'yody.official')  
     # urls = crawler_item_url_by_shop(driver)
-    with open(r'D:\Python\crawler\data\url\item_urls_part1.json', "r", encoding="utf-8") as f:
+    with open(r'C:\code\ShopeeCrawler\data\url\item_urls_part1.json', "r", encoding="utf-8") as f:
         urls = json.load(f)
 
     print(f"🔢 Đã đọc {len(urls)} URL từ file JSON.")
