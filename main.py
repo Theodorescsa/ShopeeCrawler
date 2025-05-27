@@ -4,14 +4,19 @@ from crawler_by_shop import *
 from slugify import slugify 
 from pathlib import Path
 from utils import find_to_driver, parse_num_ratings
+from dotenv import load_dotenv
+import os
+
+# Tải biến môi trường từ file .env
+load_dotenv()
+
+# Lấy các giá trị
+chrome_path = os.getenv('CHROME_PATH')
+profile_path = os.getenv('PROFILE_PATH')
+profile_name = os.getenv('PROFILE_NAME')
+
 if __name__ == "__main__":
-    driver = find_to_driver(
-        r'C:\Program Files\Google\Chrome\Application\chrome.exe',
-        r'C:\code\Default',
-        r'Default'
-    )
-
-
+    driver = find_to_driver(chrome_path, profile_path, profile_name)
     Path("results").mkdir(exist_ok=True)
 
     # shopee_search_by_shop(driver, 'yody.official')  
