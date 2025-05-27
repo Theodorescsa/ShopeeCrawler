@@ -1,0 +1,604 @@
+{
+  "product": {
+    "name": "Quần âu nam YODY cạp co giãn vải cafe kiểm chống tia UV thoải mái TRA - QAM7021",
+    "price": "₫519.000",
+    "sold": "145",
+    "rating": "4.7",
+    "num_ratings": "45",
+    "sizes": [
+      "29",
+      "30",
+      "31",
+      "32",
+      "33",
+      "34"
+    ],
+    "colors": [
+      "Đen",
+      "Ghi",
+      "Nâu",
+      "Tím than"
+    ],
+    "stock_available": "",
+    "categories": [
+      "Shopee",
+      "Thời Trang Nam",
+      "Quần Dài/Quần Âu",
+      "Quần Âu",
+      "Shopee",
+      "Thời Trang Nam",
+      "Quần Dài/Quần Âu",
+      "Quần Âu"
+    ]
+  },
+  "ratings": [
+    {
+      "author": "n*****3",
+      "date": "2024-11-06 14:02",
+      "variant": "Tím than,31",
+      "stars": 5,
+      "comment": "Vải mềm mỏng , vừa phom người. Chất vải mát có chun co dãn dễ mặc nhiều form người",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [
+        "https://down-vn.img.susercontent.com/file/vn-11134103-7ras8-m291em6go6us22"
+      ],
+      "videos": [
+        "https://down-ws-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw1-m298uihxc9ma6b.default.mp4"
+      ]
+    },
+    {
+      "author": "sanchezhuy",
+      "date": "2024-11-15 23:08",
+      "variant": "Đen,32",
+      "stars": 5,
+      "comment": "Giao hàng nhan shop nhiệt tình giá cả hợp lý rất ok..",
+      "chất liệu": "vair",
+      "màu sắc": "đen",
+      "đúng với mô tả": "ok",
+      "images": [
+        "https://down-vn.img.susercontent.com/file/vn-11134103-7ras8-m2mmrfnbneva91"
+      ],
+      "videos": [
+        "https://down-ws-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwd-m2mmrn78lhoada.default.mp4"
+      ]
+    },
+    {
+      "author": "n*****p",
+      "date": "2025-02-28 00:12",
+      "variant": "Ghi,32",
+      "stars": 5,
+      "comment": "đóng gói sản phẩm rất tuyệt vời",
+      "chất liệu": "vải cafe co giãn",
+      "màu sắc": "màu ghi sáng",
+      "đúng với mô tả": "đúng với mô tả",
+      "images": [],
+      "videos": [
+        "https://down-ws-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwh-m6r4prxzgskh82.default.mp4"
+      ]
+    },
+    {
+      "author": "mypham_shop191",
+      "date": "2024-10-28 09:44",
+      "variant": "Đen,32",
+      "stars": 5,
+      "comment": "mình đặt mua dùm nên k có hình ảnh cụ thể, chất vải đẹp, đường may chắc chắn tỉ mỉ, chỉ là mặc hơi rộng k ôm dáng",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": [
+        "https://down-ws-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwb-m1w4tlhskzf748.default.mp4"
+      ]
+    },
+    {
+      "author": "1anhnguyen",
+      "date": "2025-01-19 22:03",
+      "variant": "Tím than,30",
+      "stars": 5,
+      "comment": "Quần nhìn chất liệu quá đẹp luôn quần k đc dày dặn nên ai muốn mặc quần dày thì k nên chọn quần này",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [
+        "https://down-vn.img.susercontent.com/file/vn-11134103-7ras8-m57cbdv1s1g736"
+      ],
+      "videos": [
+        "https://down-ws-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw9-m57c49i162m0b4.default.mp4"
+      ]
+    },
+    {
+      "author": "hanseongkim",
+      "date": "2024-10-24 06:02",
+      "variant": "Tím than,32",
+      "stars": 1,
+      "comment": "178cm\n80kg\nhông.  Đùi của tôi quá chật.  Thật khó chịu.  Đặc biệt là từ eo đến hông và đùi.",
+      "chất liệu": "chat qua",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "dao_hong_chau",
+      "date": "2025-01-24 11:07",
+      "variant": "Tím than,30",
+      "stars": 5,
+      "comment": "Đúng màu, chất liệu, giao hàng nhanh",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "binkaki4",
+      "date": "2024-11-24 19:45",
+      "variant": "Đen,30",
+      "stars": 5,
+      "comment": "Ok",
+      "chất liệu": "ok",
+      "màu sắc": "ok",
+      "đúng với mô tả": "ok",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "phuonglinh258",
+      "date": "2024-12-25 11:49",
+      "variant": "Đen,31",
+      "stars": 5,
+      "comment": "Quần đẹp nha",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "quphmngc709",
+      "date": "2024-10-15 08:45",
+      "variant": "Nâu,31",
+      "stars": 5,
+      "comment": "Tốt",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "1983park",
+      "date": "2024-12-05 22:28",
+      "variant": "Đen,31",
+      "stars": 5,
+      "comment": "Ok nha",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "tiemphukienqa",
+      "date": "2024-11-29 19:59",
+      "variant": "Đen,32",
+      "stars": 5,
+      "comment": "Hình ảnh và vi ceo mang tính chất nhận xu. Quần mặc vừa. Đẹp thoải mái",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [
+        "https://down-vn.img.susercontent.com/file/vn-11134103-7ras8-m36fakci1rjw97"
+      ],
+      "videos": [
+        "https://down-bs-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwb-m36fe4wlvppo29.16000051732885093.mp4"
+      ]
+    },
+    {
+      "author": "thaidinhlinh.750",
+      "date": "2024-09-26 13:51",
+      "variant": "Đen,32",
+      "stars": 5,
+      "comment": "Yody thì tôi đã dùng nhiều , chất lượng ok đương may sắt sảo , cắt chỉ sạch , mn mua lưng cử động thì nên mua lui 1 size mặc đẹp hơn",
+      "chất liệu": "polyseter",
+      "màu sắc": "màu đen",
+      "đúng với mô tả": "đúng mô tả",
+      "images": [
+        "https://down-vn.img.susercontent.com/file/vn-11134103-7ras8-m0mpspc8xc3zac",
+        "https://down-vn.img.susercontent.com/file/vn-11134103-7ras8-m0mpspc8uinh29",
+        "https://down-vn.img.susercontent.com/file/vn-11134103-7ras8-m0mpspc8f2el9f",
+        "https://down-vn.img.susercontent.com/file/vn-11134103-7ras8-m0mpspc8vx7xf9",
+        "https://down-vn.img.susercontent.com/file/vn-11134103-7ras8-m0mpspc8hvv3ca"
+      ],
+      "videos": [
+        "https://down-ws-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwb-m0mpu9acjnv3b3.default.mp4"
+      ]
+    },
+    {
+      "author": "hatran122013",
+      "date": "2025-03-12 17:23",
+      "variant": "Đen,29",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "nguyendoanbaolong",
+      "date": "2025-01-25 10:33",
+      "variant": "Ghi,29",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "datscout",
+      "date": "2025-01-19 01:19",
+      "variant": "Đen,32",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "linhanh1712",
+      "date": "2025-03-09 17:32",
+      "variant": "Ghi,30",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "tranbahoan1982",
+      "date": "2025-04-16 19:35",
+      "variant": "Tím than,31",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "nickapple3979",
+      "date": "2025-02-22 08:54",
+      "variant": "Nâu,30",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "mechaybo",
+      "date": "2025-02-04 23:10",
+      "variant": "Đen,29",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "minguyen0709",
+      "date": "2024-12-13 22:44",
+      "variant": "Nâu,32",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "huynhphuoctai216",
+      "date": "2025-01-18 22:52",
+      "variant": "Đen,31",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "trumtrong",
+      "date": "2025-03-11 18:05",
+      "variant": "Đen,31",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "minh_trung_112",
+      "date": "2025-03-19 12:33",
+      "variant": "Nâu,30",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "kien_1990",
+      "date": "2025-04-25 06:59",
+      "variant": "Tím than,31",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "1983park",
+      "date": "2024-12-13 10:23",
+      "variant": "Đen,31",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "ngat1011",
+      "date": "2025-02-12 14:16",
+      "variant": "Nâu,31",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "0*****6",
+      "date": "2025-03-16 09:15",
+      "variant": "Tím than,32",
+      "stars": 4,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "07fj8hrik6",
+      "date": "2025-04-20 21:49",
+      "variant": "Đen,32",
+      "stars": 4,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "luyen0703",
+      "date": "2024-12-10 12:20",
+      "variant": "Tím than,29",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "07fj8hrik6",
+      "date": "2025-03-04 12:19",
+      "variant": "Tím than,32",
+      "stars": 4,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "nguyenhiep814",
+      "date": "2024-12-07 19:11",
+      "variant": "Đen,31",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "07fj8hrik6",
+      "date": "2025-02-28 12:13",
+      "variant": "Đen,32",
+      "stars": 4,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "tinlnd",
+      "date": "2024-11-28 11:18",
+      "variant": "Đen,31",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "thutrang274111",
+      "date": "2024-11-18 08:45",
+      "variant": "Đen,31",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "tranthao271091",
+      "date": "2024-11-14 21:14",
+      "variant": "Tím than,30",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "jennyeyewear",
+      "date": "2024-11-15 04:51",
+      "variant": "Đen,32",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "jennyeyewear",
+      "date": "2024-11-15 04:51",
+      "variant": "Tím than,32",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "4ix5cjkpej",
+      "date": "2024-11-09 17:35",
+      "variant": "Đen,29",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "suong2009",
+      "date": "2024-10-28 16:21",
+      "variant": "Đen,32",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "hatienhoan",
+      "date": "2025-01-08 21:48",
+      "variant": "Tím than,30",
+      "stars": 4,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "camkit241020",
+      "date": "2024-12-14 12:45",
+      "variant": "Đen,31",
+      "stars": 4,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "anhson1205",
+      "date": "2024-11-11 22:36",
+      "variant": "Đen,32",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "4ix5cjkpej",
+      "date": "2024-11-14 05:36",
+      "variant": "Nâu,29",
+      "stars": 4,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "4ix5cjkpej",
+      "date": "2024-11-14 05:35",
+      "variant": "Tím than,29",
+      "stars": 4,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    }
+  ]
+}
