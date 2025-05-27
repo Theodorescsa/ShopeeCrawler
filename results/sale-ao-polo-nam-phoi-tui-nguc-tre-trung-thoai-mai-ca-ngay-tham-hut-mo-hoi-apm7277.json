@@ -1,0 +1,832 @@
+{
+  "product": {
+    "name": "[SALE] Áo polo nam phối túi ngực trẻ trung thoái mái cả ngày thấm hút mồ hôi APM7277",
+    "price": "",
+    "sold": "208",
+    "rating": "5.0",
+    "num_ratings": "61",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL",
+      "4XL"
+    ],
+    "colors": [
+      "Tím Than",
+      "Xanh",
+      "Xám"
+    ],
+    "stock_available": "",
+    "categories": [
+      "Shopee",
+      "Thời Trang Nam",
+      "Áo",
+      "Áo Polo",
+      "Shopee",
+      "Thời Trang Nam",
+      "Áo",
+      "Áo Polo"
+    ]
+  },
+  "ratings": [
+    {
+      "author": "_andrela_",
+      "date": "2025-04-29 20:32",
+      "variant": "Xám,M",
+      "stars": 5,
+      "comment": "Áo ôm body, ai muốn mặc rộng thì lên size chứ mua đúng là ôm sát người lắm á",
+      "chất liệu": "Polyester",
+      "màu sắc": "Xám",
+      "đúng với mô tả": "Đúng",
+      "images": [
+        "https://down-vn.img.susercontent.com/file/vn-11134103-7ra0g-m95zb6cap7cy45"
+      ],
+      "videos": [
+        "https://down-ws-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwa-m95yx3j2iide81.default.mp4"
+      ]
+    },
+    {
+      "author": "nguyenthangchien",
+      "date": "2025-04-17 19:36",
+      "variant": "Xanh,L",
+      "stars": 5,
+      "comment": "Màu đẹp, giao hàng nhanh, chất mát mịn, size chuẩn, mua được sale nên giá rất ổn",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [
+        "https://down-vn.img.susercontent.com/file/vn-11134103-7ra0g-m8osq4eozecu45"
+      ],
+      "videos": [
+        "https://down-zl-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw9-m8osqc0tu8ha00.default.mp4"
+      ]
+    },
+    {
+      "author": "n*****d",
+      "date": "2025-04-08 12:35",
+      "variant": "Tím Than,M",
+      "stars": 5,
+      "comment": "Áo đẹp nha, phom shop tư vấn cg chuẩn, giao hàng nhanh. Yody rất ok nha. Áo mình giặt nên hình ảnh k lquan.",
+      "chất liệu": "vải",
+      "màu sắc": "xanh than",
+      "đúng với mô tả": "đúng",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "n*****2",
+      "date": "2025-05-19 13:29",
+      "variant": "Tím Than,L",
+      "stars": 5,
+      "comment": "Chất nhẹ không biết có nhanh hỏng ko",
+      "chất liệu": "khoong bieets",
+      "màu sắc": "tím than",
+      "đúng với mô tả": "đúng với mô tả",
+      "images": [
+        "https://down-vn.img.susercontent.com/file/vn-11134103-7ra0g-m9y3tireq1daa1",
+        "https://down-vn.img.susercontent.com/file/vn-11134103-7ra0g-m9y3tv78ip0ac5"
+      ],
+      "videos": []
+    },
+    {
+      "author": "t*****v",
+      "date": "2025-05-14 14:24",
+      "variant": "Xám,M",
+      "stars": 5,
+      "comment": "Áo you’d rất đẹp, mặc mát, ko mùi, đúng với mô tả, shop giao hàng nhanh",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [
+        "https://down-vn.img.susercontent.com/file/vn-11134103-7ra0g-m9r0vmenixz63d"
+      ],
+      "videos": [
+        "https://down-ws-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwj-m9r0wptlt2mafb.default.mp4"
+      ]
+    },
+    {
+      "author": "hngct565",
+      "date": "2025-05-19 21:51",
+      "variant": "Tím Than,L",
+      "stars": 5,
+      "comment": "Công an xã nhắn thông tin: Hiện tại tình trạng học sinh thả diều gần đường dây điện đã xẩy ra tai nạn ở 1 số nơi. Vì vậy nhờ các GVCN nhắc hs và nhắn với phụ huynh nhắc nhở, quản lý các con về việc thả diều đảm bảo an toàn, đúng quy định theo các văn bản trên",
+      "chất liệu": "poly",
+      "màu sắc": "xanh than",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "chuminh982",
+      "date": "2025-05-08 14:07",
+      "variant": "Xanh,L",
+      "stars": 5,
+      "comment": "chồng mình thích đồ của yody, mặc lên lịch sự, đứng phom, mua online vừa tiện vừa rẻ",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [
+        "https://down-vn.img.susercontent.com/file/vn-11134103-7ra0g-m9ifva3y4oku4d"
+      ],
+      "videos": [
+        "https://down-ws-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwe-m9ig0gk37gq6e9.16000051746687989.mp4"
+      ]
+    },
+    {
+      "author": "ththutmv",
+      "date": "2025-05-14 14:29",
+      "variant": "Tím Than,L",
+      "stars": 5,
+      "comment": "Áo yody rất đẹp, chuẩn màu, mặc mát, ko nhăn, đã mua áo yody của shop rất nhiều",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [
+        "https://down-vn.img.susercontent.com/file/vn-11134103-7ra0g-m9r12subar9ee1"
+      ],
+      "videos": [
+        "https://down-ws-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwj-m9r0wptlyow260.default.mp4"
+      ]
+    },
+    {
+      "author": "ngocquansg",
+      "date": "2025-05-05 09:57",
+      "variant": "Xanh,L",
+      "stars": 5,
+      "comment": "ổn, chất lượng dùng lâu mới biết được. Rất là trẻ phù hợp giá tiền.",
+      "chất liệu": "tốt",
+      "màu sắc": "tốt",
+      "đúng với mô tả": "đúng",
+      "images": [
+        "https://down-vn.img.susercontent.com/file/vn-11134103-7ra0g-m9dwv7lbn5oibd"
+      ],
+      "videos": [
+        "https://down-ws-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw8-m9dwy4xphgn659.16000051746413796.mp4"
+      ]
+    },
+    {
+      "author": "a*****0",
+      "date": "2025-05-14 14:43",
+      "variant": "Tím Than,L",
+      "stars": 5,
+      "comment": "Áp đúng size. Chất vải đanh mềm thoáng mát k bị cứng hay bí nóng. Màu sắc đẹp",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [
+        "https://down-vn.img.susercontent.com/file/vn-11134103-7ra0g-m9r1khfhq8g4ac"
+      ],
+      "videos": [
+        "https://down-ws-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw3-m9r1kogjfxqa97.default.mp4"
+      ]
+    },
+    {
+      "author": "m*****7",
+      "date": "2025-05-18 10:57",
+      "variant": "Tím Than,M",
+      "stars": 5,
+      "comment": "Đúng size kích cỡ, đẹp. Lần âu sẽ tiếp tục ủng hộ.",
+      "chất liệu": "k",
+      "màu sắc": "tím than",
+      "đúng với mô tả": "đúng",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "hboo0512",
+      "date": "2025-04-18 13:58",
+      "variant": "Tím Than,XL",
+      "stars": 5,
+      "comment": "Đã nhận được hàng, giao hàng nhanh, shiper thân thiện nhiệt tình nhé, nên mua",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "tulip0205",
+      "date": "2025-05-19 10:05",
+      "variant": "Xám,L",
+      "stars": 5,
+      "comment": "Giao hàng đúng, đủ số lượng. Shop gói hàng cẩn thận, giao hàng nhanh",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "cuckimcattien",
+      "date": "2025-05-14 14:51",
+      "variant": "Tím Than,L",
+      "stars": 5,
+      "comment": "Hàng đẹp và chất lượng, vừa in. Hàng Yody mãi đỉnh, nên mua nhé cả nhà ơi",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "uyenshopbee2018",
+      "date": "2025-04-30 10:34",
+      "variant": "Xanh,L",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "đúng mô tả đẹp",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "n*****n",
+      "date": "2025-05-01 14:02",
+      "variant": "Xanh,2XL",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "đúng mô tả, nên mua",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "dann_94",
+      "date": "2025-05-10 21:57",
+      "variant": "Xám,M",
+      "stars": 5,
+      "comment": "Áo đẹp\nHình ảnh + video chỉ mang tính chất nhận xu\nSr ace\nLmf ohieenf rồi",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "thuylinh030194",
+      "date": "2025-04-18 20:14",
+      "variant": "Xám,M",
+      "stars": 5,
+      "comment": "Chồng mình chắc mặc hết bộ sưu tập áo thun polo của yody rồi,giờ muốn chọn mua mẫu màu khác hơi khó",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "m*****9",
+      "date": "2025-04-09 18:11",
+      "variant": "Xám,M",
+      "stars": 5,
+      "comment": "Thấy nhiều người review okla ghê á mà không biết sao nữa để dubgf xem",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "hieuvtvp99",
+      "date": "2025-04-24 00:12",
+      "variant": "Xám,L",
+      "stars": 5,
+      "comment": "Hình ảnh chỉ mang tính chất nhận xu.Giao hàng hơi lâu chất lượng áo kb có ok không vì đồ mua tặng nên cũng kb",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "annhien_158",
+      "date": "2025-05-18 17:37",
+      "variant": "Tím Than,L",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "hohoai90_vp",
+      "date": "2025-05-13 13:08",
+      "variant": "Xanh,M",
+      "stars": 5,
+      "comment": "Shop giao hàng nhanh, màu sắc đẹp, chất vải mát, mình mua tặng nên không có hình ảnh chụp,",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [
+        "https://down-vn.img.susercontent.com/file/vn-11134103-7ra0g-m9piu4f7lf8ud4"
+      ],
+      "videos": [
+        "https://down-bs-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw8-m9piqktse5gaa0.16000091747116484.mp4"
+      ]
+    },
+    {
+      "author": "thuyhuong25292",
+      "date": "2025-05-22 09:28",
+      "variant": "Tím Than,M",
+      "stars": 5,
+      "comment": "Vô tình chớp được giá 24,5k do có voucher 150k, nhưng chỉ áo dụng cho size M. Vải mềm mát, quá ok. Hình mang tính nhận xu",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [
+        "https://down-vn.img.susercontent.com/file/vn-11134103-7ra0g-ma25ftgjwnq259"
+      ],
+      "videos": [
+        "https://down-bs-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwd-ma25e2ec9njidb.default.mp4"
+      ]
+    },
+    {
+      "author": "muquyn166",
+      "date": "2025-05-27 00:03",
+      "variant": "Tím Than,M",
+      "stars": 5,
+      "comment": "Áo đẹp lắm mình săn đc có 147k trước hay mua ở cửa hàng toàn phải mua với giá nguyên mác.se ủng hộ yody trong thời gian dài,phom chuẩn chất lại mát",
+      "chất liệu": "cafe dệt tổ ong",
+      "màu sắc": "tím than",
+      "đúng với mô tả": "đúng",
+      "images": [
+        "https://down-vn.img.susercontent.com/file/vn-11134103-7ra0g-ma8q32yp3otk56",
+        "https://down-vn.img.susercontent.com/file/vn-11134103-7ra0g-ma8q32z92vl4c7",
+        "https://down-vn.img.susercontent.com/file/vn-11134103-7ra0g-ma8q32yz4p6r4f"
+      ],
+      "videos": [
+        "https://down-bs-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw3-ma8q3i4gx27fb2.default.mp4"
+      ]
+    },
+    {
+      "author": "3*****f",
+      "date": "2025-05-25 09:06",
+      "variant": "Xám,M",
+      "stars": 5,
+      "comment": "Sp tốt phù hợp với giá tiền đúng mô tả dễ sử dụng không bị giãn",
+      "chất liệu": "vải",
+      "màu sắc": "xám",
+      "đúng với mô tả": "đúng",
+      "images": [
+        "https://down-vn.img.susercontent.com/file/vn-11134103-7ra0g-ma6eoupvgbsoc6"
+      ],
+      "videos": [
+        "https://down-bs-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw9-ma6eozl8d403b1.default.mp4"
+      ]
+    },
+    {
+      "author": "h*****1",
+      "date": "2025-05-23 17:56",
+      "variant": "Tím Than,M",
+      "stars": 5,
+      "comment": "Hàng giao nhanh, chất vải sờ mịn sướng, êm tay, đường may đẹp.",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [
+        "https://down-vn.img.susercontent.com/file/vn-11134103-7ra0g-ma42xpvhotp015"
+      ],
+      "videos": [
+        "https://down-bs-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khwh-ma42xv6nx2kicb.default.mp4"
+      ]
+    },
+    {
+      "author": "tran_tony",
+      "date": "2025-05-13 21:44",
+      "variant": "Tím Than,XL",
+      "stars": 5,
+      "comment": "Áo đẹp, chất liệu vải mềm mát, giặt không bị nhăn size chuẩn. Quá ổn",
+      "chất liệu": "",
+      "màu sắc": "Tím than",
+      "đúng với mô tả": "yes",
+      "images": [
+        "https://down-vn.img.susercontent.com/file/vn-11134103-7ra0g-m9q19c5mclta55"
+      ],
+      "videos": [
+        "https://down-bs-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw3-m9q16citxp96e8.default.mp4"
+      ]
+    },
+    {
+      "author": "t*****n",
+      "date": "2025-05-21 13:30",
+      "variant": "Tím Than,M",
+      "stars": 5,
+      "comment": "Giao hàng nhanh chóng. Số lượng đầy đủ. Chất lượng ok. Shop uy tín. Thương hiệu uy tín. Canh sale giá tốt. Tất cả đều ok hết nha.",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [
+        "https://down-vn.img.susercontent.com/file/vn-11134103-7ra0g-ma0jqp088cxu3a",
+        "https://down-vn.img.susercontent.com/file/vn-11134103-7ra0g-ma0jqp089ria51",
+        "https://down-vn.img.susercontent.com/file/vn-11134103-7ra0g-ma0jqp08b62q68",
+        "https://down-vn.img.susercontent.com/file/vn-11134103-7ra0g-ma0jqp08ckn6bc",
+        "https://down-vn.img.susercontent.com/file/vn-11134103-7ra0g-ma0jqp08dz7m40"
+      ],
+      "videos": [
+        "https://down-bs-sg.vod.susercontent.com/api/v4/11110103/mms/vn-11110103-6khw8-ma0yol4x4shw3d.16000051747809003.mp4"
+      ]
+    },
+    {
+      "author": "pwu8mo_riz",
+      "date": "2025-05-26 11:07",
+      "variant": "Tím Than,M",
+      "stars": 5,
+      "comment": "Sản phẩm dep, gia thanh re.",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "trang1703hn",
+      "date": "2025-04-14 12:05",
+      "variant": "Tím Than,M",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "oanhnguyen818",
+      "date": "2025-05-08 21:01",
+      "variant": "Tím Than,2XL",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "hanguyen1918",
+      "date": "2025-05-14 06:47",
+      "variant": "Tím Than,2XL",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "dieuhuyen53",
+      "date": "2025-05-21 03:57",
+      "variant": "Tím Than,XL",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "tongkhogachtbvsgiare",
+      "date": "2025-05-21 19:15",
+      "variant": "Tím Than,L",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "damhongphuong",
+      "date": "2025-05-21 12:49",
+      "variant": "Tím Than,M",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "phamthuyhang111985",
+      "date": "2025-05-18 14:25",
+      "variant": "Tím Than,M",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "thangnv8282",
+      "date": "2025-05-15 11:22",
+      "variant": "Tím Than,L",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "huyendothianh",
+      "date": "2025-04-11 08:57",
+      "variant": "Tím Than,L",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "daothihoa1996",
+      "date": "2025-04-25 23:13",
+      "variant": "Xám,M",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "nt_nga",
+      "date": "2025-05-17 04:28",
+      "variant": "Tím Than,XL",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "h123409",
+      "date": "2025-05-13 10:00",
+      "variant": "Tím Than,L",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "thaibich",
+      "date": "2025-04-08 22:41",
+      "variant": "Xám,L",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "tranguyen247",
+      "date": "2025-05-09 23:01",
+      "variant": "Xám,L",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "trunghienan2013",
+      "date": "2025-05-15 12:54",
+      "variant": "Tím Than,L",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "phamhongtho123",
+      "date": "2025-04-14 20:02",
+      "variant": "Xám,XL",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "duyhp88",
+      "date": "2025-05-24 17:16",
+      "variant": "Tím Than,2XL",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "chilam26",
+      "date": "2025-05-18 19:21",
+      "variant": "Tím Than,L",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "diem28111988",
+      "date": "2025-05-11 17:02",
+      "variant": "Tím Than,XL",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "phamtienkm2",
+      "date": "2025-05-15 15:35",
+      "variant": "Xám,M",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "buingoclinh10101994",
+      "date": "2025-05-14 21:19",
+      "variant": "Xám,M",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "_datpham",
+      "date": "2025-04-11 20:29",
+      "variant": "Xám,2XL",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "thuongthu1997",
+      "date": "2025-04-23 16:46",
+      "variant": "Xám,L",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "nguyendao198567",
+      "date": "2025-05-05 12:41",
+      "variant": "Xanh,3XL",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "7h6v9vfrcb",
+      "date": "2025-05-11 11:51",
+      "variant": "Tím Than,XL",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "hoangngoc280687",
+      "date": "2025-05-12 12:37",
+      "variant": "Xanh,XL",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "hoangnamtran176",
+      "date": "2025-05-13 13:17",
+      "variant": "Xám,M",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "canthinga441",
+      "date": "2025-05-15 12:02",
+      "variant": "Xanh,M",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "diennguyen645",
+      "date": "2025-05-16 09:21",
+      "variant": "Xám,L",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "mylinhnguyen433",
+      "date": "2025-05-21 18:08",
+      "variant": "Xám,4XL",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "teovt",
+      "date": "2025-05-19 09:42",
+      "variant": "Xám,M",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    },
+    {
+      "author": "huynhsuu2004",
+      "date": "2025-05-26 22:02",
+      "variant": "Tím Than,M",
+      "stars": 5,
+      "comment": "",
+      "chất liệu": "",
+      "màu sắc": "",
+      "đúng với mô tả": "",
+      "images": [],
+      "videos": []
+    }
+  ]
+}
