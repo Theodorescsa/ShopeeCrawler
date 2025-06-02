@@ -21,7 +21,7 @@ if __name__ == "__main__":
 
     # shopee_search_by_shop(driver, 'yody.official')  
     # urls = crawler_item_url_by_shop(driver)
-    with open(r'C:\code\ShopeeCrawler\data\url\item_urls_part1.json', "r", encoding="utf-8") as f:
+    with open(r"D:\Python\crawler\data\url\item_urls.json", "r", encoding="utf-8") as f:
         urls = json.load(f)
 
     print(f"🔢 Đã đọc {len(urls)} URL từ file JSON.")
